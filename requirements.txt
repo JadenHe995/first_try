@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 pytest
 pytest-cov
 flake8
 pylint
 pydocstyle
+=======
+pytest
+pytest-cov
+pylint
+pydocstyle
+flake8
+>>>>>>> refs/remotes/origin/master
